@@ -13,4 +13,4 @@ API
 =====================
 
 Use POST/GET to send data in site, use `api` as index<br>
-ex: `http://saiful.im/live/index.php?api=http://google.com`
+ex: http://saiful.im/live/?api=http://google.com
