@@ -12,5 +12,5 @@ Check any site is dead or live!
 API
 =====================
 
-Use POST/GET to send data in index.php. Use `api` as index
+Use POST/GET to send data in site, use `api` as index<br>
 ex: `http://saiful.im/live/index.php?api=http://google.com`
